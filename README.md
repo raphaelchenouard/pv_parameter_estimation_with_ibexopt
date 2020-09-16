@@ -4,5 +4,5 @@ Source code of publication:
 
 Requirements:
 
-- Ibex library with ibexopt plugin.
+- Ibex library with ibexopt plugin (http://ibex-lib.org/).
 - Python with scipy for the plots and benchs automation
